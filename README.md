@@ -1,0 +1,3 @@
+# ml-for-depression-detection-pfc
+Este proyecto utiliza las técnicas de los papers "Τ-SS3: A text classifier with dynamic N-grams for early risk detection over text streams" (Sergio G. Burdisso a b et al. (2020) Available at: https://www.sciencedirect.com/science/article/pii/S0167865520302476) y  "Cost-sensitive boosting pruning trees for depression" (IEEE xplore. Available at: https://ieeexplore.ieee.org/document/9691852) para evaluar parte del estado del arte en el tema de Modelos de aprendizaje para detección de depresión a partir de datos texuales.
+El data set utilizado es el Distress Analysis Interview Corpus Wizard-of-Oz (DAIC-WOZ) de la Universidad de California.
