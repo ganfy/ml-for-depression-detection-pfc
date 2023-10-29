@@ -1,0 +1,41 @@
+this is the first document
+>>>>>
+second document is toxic, severe_toxic, obscene, and insult.
+>>>>>
+this is document number 3
+>>>>>
+the 4th document goes like this one :P
+>>>>>
+document 5
+>>>>>
+this is the synthetic document number 6
+>>>>>
+7, 7 is the number of this document
+>>>>>
+this is the last document, and it is really toxic!
+>>>>>
+this is the synthetic document
+number 9
+>>>>>
+this is the synthetic document
+number 10
+>>>>>
+this is document number 11
+>>>>>
+this is document number 12
+>>>>>
+this is document number 13
+>>>>>
+this is document number 14
+>>>>>
+this is document number 15
+>>>>>
+this is document number 16
+>>>>>
+this is document number 17
+>>>>>
+this is document number 18
+>>>>>
+this is document number 19
+>>>>>
+this is document number 20

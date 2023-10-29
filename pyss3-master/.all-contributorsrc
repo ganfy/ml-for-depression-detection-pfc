@@ -1,0 +1,55 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "angrymeir",
+      "name": "Florian Angermeir",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16398152?v=4",
+      "profile": "http://angermeir.me/",
+      "contributions": [
+        "code",
+        "ideas",
+        "data"
+      ]
+    },
+    {
+      "login": "Vaiyani",
+      "name": "Muneeb Vaiyani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36028992?v=4",
+      "profile": "https://www.linkedin.com/in/muneebvaiyani/",
+      "contributions": [
+        "ideas",
+        "data"
+      ]
+    },
+    {
+      "login": "enthussb",
+      "name": "Saurabh Bora",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29205181?v=4",
+      "profile": "https://www.saurabhbora.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "hbaniecki",
+      "name": "Hubert Baniecki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32574004?v=4",
+      "profile": "https://hbaniecki.com",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "pyss3",
+  "projectOwner": "sergioburdisso",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
