@@ -1,0 +1,9 @@
+ipython==7.16.3
+metrics==0.3.3
+numpy==1.16.0
+pandas==0.22.0
+pydotplus==2.0.2
+cython==0.25
+scipy==0.18.1
+tqdm==4.64.1
+utils==1.0.1
