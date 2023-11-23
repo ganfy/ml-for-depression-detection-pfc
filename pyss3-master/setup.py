@@ -62,8 +62,8 @@ if __name__ == "__main__":
                             'matplotlib',
                             'iterative-stratification'],
           tests_require=['pytest',
-                         'pytest-mock'
-                         'pytest-cov>=2.5'
+                         'pytest-mock',
+                         'pytest-cov>=2.5',
                          'codecov',
                          'flake8',
                          'six',

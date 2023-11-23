@@ -400,7 +400,8 @@ cdef class Tree:
         cdef double weighted_n_node_samples
 
         if self.max_depth <= 10:
-            init_capacity = (2 ** (<int>(self.max_depth) + 1)) - 1
+            # init_capacity = (2 ** (<int>(self.max_depth) + 1)) - 1
+            init_capacity = <int>(2 ** (self.max_depth + 1)) - 1
         else:
             init_capacity = 2047
 
